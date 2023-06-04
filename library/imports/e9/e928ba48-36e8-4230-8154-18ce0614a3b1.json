@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miner-disappear-3",
+    "texture": "0485fcd4-cd45-49bc-a615-5a7878c0cdd4",
+    "atlas": "78d4046e-5589-4053-9b7e-76c0cd87cf91",
+    "rect": [
+      286,
+      195,
+      140,
+      189
+    ],
+    "offset": [
+      -5,
+      -6
+    ],
+    "originalSize": [
+      150,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

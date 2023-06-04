@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaves-1-night",
+    "texture": "c47d2027-9100-4b1e-88c3-2b542d8ebbda",
+    "atlas": "6baa6559-404f-40cf-ae13-606baadcde32",
+    "rect": [
+      438,
+      130,
+      277,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      277,
+      71
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

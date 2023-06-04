@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "general-sheet.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "achievement-android-btn-0": {
+      "__uuid__": "f9396607-4b2b-4de7-bdca-45411e9128e3"
+    },
+    "achievement-android-btn-1": {
+      "__uuid__": "be4536b0-9a38-4c51-ad4b-a4425c61b3c8"
+    },
+    "achievement-iOS-btn-0": {
+      "__uuid__": "3927b4be-9da5-480e-b960-109159ba2a75"
+    },
+    "achievement-iOS-btn-1": {
+      "__uuid__": "24762711-b5d3-4e27-807f-f178ab99ffa4"
+    },
+    "auto-btn-0": {
+      "__uuid__": "7054f108-720e-4821-bde8-fbb83bacd390"
+    },
+    "auto-btn-1": {
+      "__uuid__": "e4fd047c-dba1-4863-99d8-ac944174c8e3"
+    },
+    "blink-text-back": {
+      "__uuid__": "26854933-4c1b-4953-8ffc-5fdbc5a5f6f7"
+    },
+    "btn-0": {
+      "__uuid__": "7b0558bb-c705-45c8-8246-cf360b0f3508"
+    },
+    "btn-1": {
+      "__uuid__": "845d225c-e9a8-44c6-8255-fd32271d835b"
+    },
+    "btn-2": {
+      "__uuid__": "da90fef5-48c9-41a2-8596-e37466273e6f"
+    },
+    "cave-0": {
+      "__uuid__": "96ffab76-765c-453d-ad65-7571459b6995"
+    },
+    "cave-1": {
+      "__uuid__": "9d70be44-2887-4914-836f-16d42d9c9438"
+    },
+    "cave-2": {
+      "__uuid__": "974790ed-d53f-4f76-8f08-f9bb9f40cc1d"
+    },
+    "close-btn-0": {
+      "__uuid__": "acf31cd2-7238-4037-a4d7-d34816645f5f"
+    },
+    "close-btn-1": {
+      "__uuid__": "92390abf-90df-4706-94d3-a4f7f62fc84b"
+    },
+    "cloud-night": {
+      "__uuid__": "8ffc1f22-508b-408c-ae6b-6b564c783273"
+    },
+    "cloud": {
+      "__uuid__": "f3de437d-308a-400e-bf31-feef0ce06af5"
+    },
+    "day-btn-0": {
+      "__uuid__": "c3900a2b-f37c-43b8-8937-dd132563fae8"
+    },
+    "day-btn-1": {
+      "__uuid__": "774fa36c-ec57-4456-850a-9349f84d47f7"
+    },
+    "diamond-polish": {
+      "__uuid__": "1d5d1a46-8260-4cf2-bb6e-e21d0321b6e1"
+    },
+    "dynamite": {
+      "__uuid__": "5a787fc0-1758-4ec5-adc6-0a8b39c8390a"
+    },
+    "english-btn-0": {
+      "__uuid__": "efd6e92c-f103-408f-8e94-1f7fcdd5ea99"
+    },
+    "english-btn-1": {
+      "__uuid__": "35fca93a-5d7e-49b9-9cfd-d294c02d1956"
+    },
+    "facebook-btn-0": {
+      "__uuid__": "74c4b01b-42a9-4ec6-a1a8-92f4d99c6ca7"
+    },
+    "facebook-btn-1": {
+      "__uuid__": "7ad44142-f87d-4ba9-8e68-841428b27861"
+    },
+    "game-center-btn-0": {
+      "__uuid__": "2f42049f-036a-450f-a64a-eeecac1c8f2b"
+    },
+    "game-center-btn-1": {
+      "__uuid__": "2b4dd97a-96db-4988-85f2-6a9d139aa647"
+    },
+    "icon-288": {
+      "__uuid__": "f12487a0-160c-4506-ad3e-2f553b2a8675"
+    },
+    "icon-gold-miner-ios7-200": {
+      "__uuid__": "fe3abfa9-9b52-4f97-913a-29659d63f25a"
+    },
+    "leaderboard-btn-0": {
+      "__uuid__": "7c05c601-1ef5-4131-b88e-5f4d7a8ba50f"
+    },
+    "leaderboard-btn-1": {
+      "__uuid__": "0bb3747b-732c-427e-8a64-a2d9dc6a7e9c"
+    },
+    "lucky-clover": {
+      "__uuid__": "3f97b2f8-9ff5-494b-93ae-bf77b8dad1be"
+    },
+    "menu1-btn-0": {
+      "__uuid__": "da1de5ce-f3d2-421e-818f-a1fc2551a8ad"
+    },
+    "menu1-btn-1": {
+      "__uuid__": "7da1f893-60c0-4db2-a6ec-a9e3f51e49e8"
+    },
+    "menu2-close-btn-0": {
+      "__uuid__": "cfadeb53-9b5f-4fc0-887b-54182b061cf6"
+    },
+    "menu2-close-btn-1": {
+      "__uuid__": "ee58087b-01bf-45e5-b6ae-76640ec0c37c"
+    },
+    "menu2-open-btn-0": {
+      "__uuid__": "43000f20-e5f0-402b-a43e-305e4ae59ceb"
+    },
+    "menu2-open-btn-1": {
+      "__uuid__": "7a93b750-9e44-4b05-8e28-f9d1f123e075"
+    },
+    "miner-face-normal": {
+      "__uuid__": "d4f20580-065b-4d4b-b294-ac6350d73797"
+    },
+    "miner-face-smile": {
+      "__uuid__": "43291bdb-7058-423c-9cbb-29edb0e4e033"
+    },
+    "miner-face-whistle-0": {
+      "__uuid__": "50d02f16-0437-4f0b-969e-e1d107db2832"
+    },
+    "miner-face-whistle-1": {
+      "__uuid__": "92c474c1-2366-4105-b9c5-c7400bec4933"
+    },
+    "miner-face-whistle-2": {
+      "__uuid__": "4f394b42-7bd0-46f2-a1bf-289748d51dba"
+    },
+    "miner-leg-0": {
+      "__uuid__": "4a3becb9-5c34-400c-a643-e1ebf266c02c"
+    },
+    "miner-leg-1": {
+      "__uuid__": "9bf870ad-d730-4c25-a9e7-41a6cf469e10"
+    },
+    "miner-leg-2": {
+      "__uuid__": "c8618c57-1919-48e5-b788-6ca5ba18dad6"
+    },
+    "more-game-btn-1": {
+      "__uuid__": "738b6d79-71b9-40b5-8c25-dfe6cf7aac5d"
+    },
+    "more-game-btn-2": {
+      "__uuid__": "eca042f9-6d65-4627-b8f8-2556fe70f782"
+    },
+    "music-off-btn-0": {
+      "__uuid__": "62f59dbc-3779-4982-9443-bf03bd8890e7"
+    },
+    "music-off-btn-1": {
+      "__uuid__": "899ea58c-f278-4d3f-a090-9d8daba39922"
+    },
+    "music-on-btn-0": {
+      "__uuid__": "c626271d-5417-41e6-9267-c85b7ccd723b"
+    },
+    "music-on-btn-1": {
+      "__uuid__": "29c869a2-0e76-4d8d-be3e-47f7fba2300e"
+    },
+    "next-btn-0": {
+      "__uuid__": "43e8be69-30dd-4c31-a23c-4ed106a55d6a"
+    },
+    "next-btn-1": {
+      "__uuid__": "c4d6498f-3379-4bba-be27-e7308639d844"
+    },
+    "night-btn-0": {
+      "__uuid__": "5ff77b82-82a7-4617-9f04-51892c482cdf"
+    },
+    "night-btn-1": {
+      "__uuid__": "434e05e5-4f7b-48aa-8f9d-6e1c0c375e83"
+    },
+    "option-btn-0": {
+      "__uuid__": "933818b2-bf74-4d5f-8835-b62867a944aa"
+    },
+    "option-btn-1": {
+      "__uuid__": "1cd6d25d-d0eb-40f4-8c66-6236fa28024c"
+    },
+    "pause-btn-0": {
+      "__uuid__": "8eab4537-e801-47c8-b3e7-14552be3e186"
+    },
+    "pause-btn-1": {
+      "__uuid__": "0b847109-3274-4ec3-b090-02d51a00159c"
+    },
+    "random-btn-0": {
+      "__uuid__": "80cccdf3-3c35-43c3-831e-0980d5ab3dc3"
+    },
+    "random-btn-1": {
+      "__uuid__": "d14b6c38-d274-4374-9126-2d4ae87fbeea"
+    },
+    "rank-0": {
+      "__uuid__": "35193b51-b667-438e-9d9e-2e25fb091d8f"
+    },
+    "rank-1": {
+      "__uuid__": "affdf1ab-2dc0-445d-ab37-ed4590fd7694"
+    },
+    "rate-btn-1": {
+      "__uuid__": "58acf2dc-b936-4b01-8b39-55afafa3e681"
+    },
+    "rate-btn-2": {
+      "__uuid__": "2d21d100-0164-43ea-9292-55c2bf9686d9"
+    },
+    "rock-collectors-book": {
+      "__uuid__": "ae8969bd-f2c2-4330-aa1f-acf96735461d"
+    },
+    "russian-btn-0": {
+      "__uuid__": "9feda7a7-1afa-4abd-8a2f-5954a95f960d"
+    },
+    "russian-btn-1": {
+      "__uuid__": "3a78f88f-57b3-46ac-9894-afe797b11be5"
+    },
+    "sound-off-btn-0": {
+      "__uuid__": "55fde85d-05d6-4332-8451-8bb3479cda81"
+    },
+    "sound-off-btn-1": {
+      "__uuid__": "a0a6cee0-4e3c-4ae4-9270-0dd277a4f140"
+    },
+    "sound-on-btn-0": {
+      "__uuid__": "e5a05c6c-8576-4a28-bd84-018cf5c4bd8d"
+    },
+    "sound-on-btn-1": {
+      "__uuid__": "89c99a0c-b7f4-46a7-955f-8c12fc45970a"
+    },
+    "start-0": {
+      "__uuid__": "e427b59c-47d9-4631-857d-cf4ddd270557"
+    },
+    "start-1": {
+      "__uuid__": "6287a71f-2d3d-4644-a424-d6da7eb7ad6c"
+    },
+    "strength-drink": {
+      "__uuid__": "82190653-6136-4aba-9d13-30f68d603c7a"
+    },
+    "strength": {
+      "__uuid__": "98c6d986-ab68-471b-992a-9d0c5b926354"
+    },
+    "thai-btn-0": {
+      "__uuid__": "eb6becd8-e6d5-4f4d-a492-94ba3b9328a1"
+    },
+    "thai-btn-1": {
+      "__uuid__": "f53f133d-fbe4-4538-8713-53137c2124c0"
+    },
+    "turkish-btn-0": {
+      "__uuid__": "9287fa13-c89a-4181-908c-cf4aaff5948e"
+    },
+    "turkish-btn-1": {
+      "__uuid__": "19bbc6c2-52ca-4d2f-af62-89c76261bade"
+    },
+    "vietnamese-btn-0": {
+      "__uuid__": "f22fbd45-9b28-45b6-b5ce-12f89dd92687"
+    },
+    "vietnamese-btn-1": {
+      "__uuid__": "a473b719-6c5f-4a93-b646-b0d60aa2759c"
+    }
+  }
+}

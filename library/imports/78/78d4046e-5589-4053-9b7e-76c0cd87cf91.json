@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "miner-sheet-2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "miner-appear-0": {
+      "__uuid__": "cc2c78c2-0d93-497a-a92f-ead1481c6848"
+    },
+    "miner-appear-1": {
+      "__uuid__": "5da4ad46-9246-400a-869d-41a28797fd4e"
+    },
+    "miner-appear-2": {
+      "__uuid__": "e8d446bc-3182-43a4-9fb7-008aa9e6ccc2"
+    },
+    "miner-appear-3": {
+      "__uuid__": "9f7f5de3-d88d-4aef-a399-d82ff272c62e"
+    },
+    "miner-appear-4": {
+      "__uuid__": "0296c74c-eb15-4e20-9a60-7b8cabbfa396"
+    },
+    "miner-dig-0": {
+      "__uuid__": "67924e13-7a31-478d-9758-2790871bca05"
+    },
+    "miner-dig-1": {
+      "__uuid__": "53b59090-f31a-4430-8517-de5bac2f0863"
+    },
+    "miner-disappear-0": {
+      "__uuid__": "04c2479c-e566-4820-b89b-f36dfffb5fac"
+    },
+    "miner-disappear-1": {
+      "__uuid__": "3fcbac99-7d81-4652-bea6-dc49b5ce2a41"
+    },
+    "miner-disappear-2": {
+      "__uuid__": "9196d3a6-0e19-46f9-b2f9-da44bf82343a"
+    },
+    "miner-disappear-3": {
+      "__uuid__": "e928ba48-36e8-4230-8154-18ce0614a3b1"
+    },
+    "miner-disappear-4": {
+      "__uuid__": "b89d3f83-b09f-4c44-adb9-72e422832613"
+    },
+    "miner-strong-0": {
+      "__uuid__": "318de64b-369f-40a6-82a5-50bbce5d70d5"
+    },
+    "miner-strong-1": {
+      "__uuid__": "2c5daabb-544b-4f31-8d38-ba55113b7ede"
+    },
+    "miner-strong-2": {
+      "__uuid__": "8793c2d6-5323-4b85-8bad-3e3d2f6cf910"
+    },
+    "miner-throw-0": {
+      "__uuid__": "0a5a5d86-e425-4f2d-9c87-35ad23390084"
+    },
+    "miner-throw-1": {
+      "__uuid__": "b8f76b5a-d9cd-4637-89c3-1bfa1a40a1b5"
+    },
+    "miner-throw-2": {
+      "__uuid__": "f40fcbc8-8328-4242-8d31-a65b51d61098"
+    },
+    "miner-throw-3": {
+      "__uuid__": "1f87e782-ae6b-4075-b360-ad6f53753151"
+    }
+  }
+}

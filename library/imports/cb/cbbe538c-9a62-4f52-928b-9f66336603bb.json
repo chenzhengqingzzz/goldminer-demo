@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level-background-1-mountain",
+    "texture": "d7e9c37f-e9fb-4498-a844-f00513c0de61",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      960,
+      215
+    ],
+    "offset": [
+      0,
+      212.5
+    ],
+    "originalSize": [
+      960,
+      640
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

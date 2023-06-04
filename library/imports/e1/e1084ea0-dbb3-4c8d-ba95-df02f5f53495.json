@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu-start-gold",
+    "texture": "69394f5d-286e-4590-b157-4b34db8b28ed",
+    "atlas": "",
+    "rect": [
+      19,
+      14,
+      285,
+      260
+    ],
+    "offset": [
+      8.5,
+      -4.5
+    ],
+    "originalSize": [
+      306,
+      279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

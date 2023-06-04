@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miner-pull-heavy-6",
+    "texture": "2850c6c8-dc2b-4d56-8d91-edb7204d203a",
+    "atlas": "896ccd2e-c2d2-4004-af0c-bd4a2e44b917",
+    "rect": [
+      711,
+      2,
+      140,
+      183
+    ],
+    "offset": [
+      -5,
+      -8
+    ],
+    "originalSize": [
+      150,
+      203
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold-miner-text",
+    "texture": "4637d584-b24f-4d26-a074-b6f70f90496f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      425,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      425,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

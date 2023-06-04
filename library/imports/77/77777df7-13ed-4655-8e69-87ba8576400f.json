@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miner-pull-light-4",
+    "texture": "2850c6c8-dc2b-4d56-8d91-edb7204d203a",
+    "atlas": "896ccd2e-c2d2-4004-af0c-bd4a2e44b917",
+    "rect": [
+      2,
+      412,
+      140,
+      189
+    ],
+    "offset": [
+      -5,
+      -6
+    ],
+    "originalSize": [
+      150,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
